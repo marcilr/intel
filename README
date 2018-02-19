@@ -11,3 +11,11 @@ intel.txt
 
 links.txt
   Intel related links
+
+PRO-1000-GT/
+  The Intel PRO/1000 GT Quad Port adapter supports both PCI-X 1.0 and 
+  PCI 2.2 buses.  Sweet.
+  make:  Intel
+  model: PRO/1000 GT Quad Port Server Adapter
+  note:  Auto-sensing, self-configuring 10/100/1000 Mbps 
+  price: $401.99 (newegg Thu Feb 11, 2010)
