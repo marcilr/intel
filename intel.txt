@@ -1,0 +1,12 @@
+intel.txt
+Created Mon Feb 19 09:59:42 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Intel
+
+
+Links
+=====
+Intel Ethernet Products
+https://www.intel.com/content/www/us/en/products/network-io/ethernet.html
